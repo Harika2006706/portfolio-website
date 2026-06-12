@@ -25,7 +25,7 @@ import aimtrainer from "./images/aimtrainer.jpeg";
 import aimtrainerVideo from "./videos/aimtrainer.mp4";
 import studysphereVideo from "./videos/studysphere.mp4";
 import profilePic from "./images/profile.jpeg"; // change name if needed
-import { ExternalLink, Mail, Phone, Download, ChevronLeft, CheckCircle2, Trophy, ArrowRight, User, Terminal, Code2, FileText, Video } from 'lucide-react';
+import { ExternalLink, Mail, Phone, ChevronLeft, CheckCircle2, Trophy, ArrowRight, FileText, Video } from 'lucide-react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 function App() {
